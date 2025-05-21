@@ -6,5 +6,5 @@ export default defineConfig({
   server: {
     open: true,
   },
-  base: "/react-finale/",
+  base: "/react-finale",
 });
